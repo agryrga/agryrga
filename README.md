@@ -1,6 +1,3 @@
-### Hey 👋
-I'm Andrew, web developer
-
 #### Technologies:
 - 👨‍💻 TypeScript, JavaScript
 - ⚛️ React, Next.js 
