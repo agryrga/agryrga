@@ -1,4 +1,3 @@
-#### Technologies:
 - 👨‍💻 TypeScript, JavaScript
 - ⚛️ React, Next.js 
 - 🛠️ Node.js, Express, Prisma, PostgreSQL
